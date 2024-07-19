@@ -99,7 +99,7 @@ Shows changes between commits, commit and working tree, etc.
 
 > To clone a repository, use:
 
-git clone <repository-url>
+**git clone <repository-url>**
 
 ### **Add a Remote Repository**
 
