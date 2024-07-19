@@ -95,7 +95,7 @@ Shows changes between commits, commit and working tree, etc.
 1. **git stash** (Save changes for later)
 2. **git stash apply** (Reapply stashed changes)
 
-> ### **Clone a Repository**
+### **Clone a Repository**
 
 > To clone a repository, use:
 
